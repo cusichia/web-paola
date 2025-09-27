@@ -1,0 +1,23 @@
+  [
+{
+    "id": 1,
+    "nombre": "Lucía Fernández",
+    "ocupacion": "Diseñadora UX",
+    "imagen": "https://randomuser.me/api/portraits/women/44.jpg",
+    "descripcion": "Apasionada por crear experiencias digitales intuitivas."
+  },
+  {
+    "id": 2,
+    "nombre": "Carlos Méndez",
+    "ocupacion": "Desarrollador Full Stack",
+    "imagen": "https://randomuser.me/api/portraits/men/32.jpg",
+    "descripcion": "Fanático del código limpio y las soluciones escalables."
+  },
+  {
+    "id": 3,
+    "nombre": "Sofía Ruiz",
+    "ocupacion": "Project Manager",
+    "imagen": "https://randomuser.me/api/portraits/women/68.jpg",
+    "descripcion": "Organiza equipos como una directora de orquesta."
+  }
+]
